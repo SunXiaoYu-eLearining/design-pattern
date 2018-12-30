@@ -1,4 +1,4 @@
-package structuctive.pattern.filter;
+package structural.pattern.filter;
 
 public class Person {
     private String name;

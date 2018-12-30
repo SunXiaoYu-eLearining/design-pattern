@@ -1,4 +1,4 @@
-package structuctive.pattern.bridge;
+package structural.pattern.bridge;
 
 public class GreenCircle implements DrawAPI {
     @Override

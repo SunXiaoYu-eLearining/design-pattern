@@ -1,4 +1,4 @@
-package structuctive.pattern.adapter;
+package structural.pattern.adapter;
 
 public class MediaAdapter implements MediaPlayer {
     AdvancedMediaPlayer advancedMediaPlayer;

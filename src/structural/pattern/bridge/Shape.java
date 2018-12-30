@@ -1,4 +1,4 @@
-package structuctive.pattern.bridge;
+package structural.pattern.bridge;
 
 public abstract class Shape {
     protected DrawAPI drawAPI;

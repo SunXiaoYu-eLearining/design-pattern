@@ -1,4 +1,4 @@
-package structuctive.pattern.filter;
+package structural.pattern.filter;
 
 import java.util.ArrayList;
 import java.util.List;

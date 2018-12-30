@@ -1,4 +1,4 @@
-package structuctive.pattern.bridge;
+package structural.pattern.bridge;
 
 public class Circle extends Shape {
     private int x, y, radius;

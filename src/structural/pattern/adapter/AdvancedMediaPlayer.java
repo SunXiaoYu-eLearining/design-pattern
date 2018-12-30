@@ -1,4 +1,4 @@
-package structuctive.pattern.adapter;
+package structural.pattern.adapter;
 
 public interface AdvancedMediaPlayer {
     public void playVlc(String fileName);
